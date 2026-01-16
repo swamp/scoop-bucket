@@ -1,12 +1,12 @@
 {
-    "version": "0.3.2",
+    "version": "0.3.3",
     "description": "Swamp CLI",
     "homepage": "https://github.com/swamp/swamp",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/swamp/swamp/releases/download/v0.3.2/swamp-0.3.2-windows-x86_64.zip",
-            "hash": "8304c0b7dc7c2e5faa9a524c7e227ba22e27d275183e500ab36e54fcf70c5f7d"
+            "url": "https://github.com/swamp/swamp/releases/download/v0.3.3/swamp-0.3.3-windows-x86_64.zip",
+            "hash": "2acb321568f564cb651c6b015bef189fcb69b3ff0d0726a5a58c0eab7cd72c35"
         }
     },
     "bin": [
